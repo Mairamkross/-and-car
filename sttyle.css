@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* body{
+    background-color:black ;
+}
+img{
+    position: absolute;
+    opacity: 0;
+}
+p{
+    position: absolute;
+    color: white;
+    display: flex;
+    text-align: center;
+    margin-top: 500px;
+}
+.img1{
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.img2{
+    margin-top: 400px;
+    margin-left: 400px;
+}
+.img3{
+    margin-top: 800px;
+    margin-left: 100px;
+}
+.img4{
+    margin-top: 600px;
+    margin-left: 250px;
+}
+.img5{
+    margin-top: 300px;
+    margin-left: 700px;
+}
+.img6{
+    margin-top: 700px;
+    margin-left: 990px;
+}
+.img7{
+    margin-top: 200px;
+    margin-left: 999px;
+} */
+
+.car{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 450px;
+}
+.tsreet{
+    position: absolute ;
+}
